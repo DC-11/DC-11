@@ -7,6 +7,10 @@
 <tr>
 <td width="50%">
 
+<table>
+<tr>
+<td width="70%" valign="top">
+
 ### Me *`Dhiraj Chaudhary`*
 
 - Software Engineering graduate figuring out where I fit in tech  
@@ -15,65 +19,19 @@
 - Building with **Next.js, React Native, and backend services**  
 - Build -> Break and Repeat  
 
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #0d1117; }
-    .text {
-      font-family: monospace;
-      font-size: 16px;
-      fill: #e6edf3;
-      white-space: pre;
-    }
+</td>
 
-    /* Typing animation */
-    .typing {
-      overflow: hidden;
-      border-right: 2px solid #e6edf3;
-      width: 0;
-      animation: typing 4s steps(80, end) forwards, blink 0.8s infinite;
-    }
+<td width="40%" align="right" valign="top">
 
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 800px }
-    }
+<img src="ao7rl4.gif" width="280"/>
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
-    @keyframes blink {
-      50% { border-color: transparent }
-    }
 
-    .line {
-      fill: #22c55e;
-      opacity: 0;
-      animation: fadeIn 1s ease forwards;
-      animation-delay: 4s;
-    }
-
-    @keyframes fadeIn {
-      to { opacity: 1 }
-    }
-  </style>
-
-  <!-- Background -->
-  <rect width="100%" height="100%" class="bg"/>
-
-  <!-- Typing Text -->
-  <foreignObject x="20" y="30" width="860" height="140">
-    <div xmlns="http://www.w3.org/1999/xhtml" class="text typing">
-<pre>
-███████╗██╗      ██████╗ ██╗    ██╗██████╗
-██╔════╝██║     ██╔═══██╗██║    ██║██╔══██╗
-███████╗██║     ██║   ██║██║ █╗ ██║██║  ██║
-╚════██║██║     ██║   ██║██║███╗██║██║  ██║
-███████║███████╗╚██████╔╝╚███╔███╔╝██████╔╝
-╚══════╝╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚═════╝
-</pre>
-    </div>
-  </foreignObject>
-
-  <!-- After typing line -->
-  <rect x="20" y="170" width="860" height="2" class="line"/>
-</svg>
+</td>
+</tr>
+</table>
 
 
 ## Skill stack
