@@ -23,7 +23,7 @@
 
 <td width="40%" align="right" valign="top">
 
-<img src="ao7rl4.gif" width="280"/>
+<img src="gifslowdock-2.gif" width="280"/>
 <a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
