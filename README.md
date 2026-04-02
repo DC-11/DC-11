@@ -56,8 +56,8 @@
       </a>
       <br/>
       <b>Intraviewer: Real Time Mock Interviwew system</b><br/>
-      <sub>Built interview-simulation  LLM-powered system that enable interview-pactice with questions in real time.</sub><br/>
-      🔗 <a href="https://github.com/maximus-soares/Projects/blob/main/AI%20Projects/Deepseek.md">Repo</a>
+      <sub>Built interview-simulation LLM-powered system that enable interview-pactice with questions in real time.</sub><br/>
+      🔗 <a href="https://github.com/DC-11/intraviewer-frontend">Repo</a>
       <br/>
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
