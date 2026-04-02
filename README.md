@@ -8,7 +8,7 @@
 <td width="50%">
 
 <table>
-<tr>
+<tr width=90%>
 <td width="70%" valign="top">
 
 ### Me *`Dhiraj Chaudhary`*
