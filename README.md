@@ -4,7 +4,7 @@
 **`Developer • Exploring DevOps •`** 
 
 <table>
-<tr>
+<tr width=50%>
 <td width="50%">
 
 <table>
