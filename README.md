@@ -9,7 +9,7 @@
 
 <table>
 <tr width=50%>
-<td width="30%" valign="top">
+<td  valign="top">
 
 ### Me *`Dhiraj Chaudhary`*
 
@@ -19,12 +19,14 @@
 - Building with **Next.js, React Native, and backend services**  
 - Build -> Break and Repeat  
 </td>
-<td width="15%" align="left" valign="top"]>
+<td>
 <img src="gifslowdock-2.gif" width="280"/>
+     <p></p>
 <a href="https://my-porfolio-dhiraj-chaudharys-projects.vercel.app/" target="blank">
 <img src="https://img.shields.io/badge/portfolio-visit-15803d?style=for-the-badge&logo=google-chrome&logoColor=FFD700&labelColor=052e16" /></a>
 <a href="https://www.linkedin.com/in/dhiraj-chaudhary-4a0378282/" target="blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+     </p>
 </td>
 </tr>
 </table>
