@@ -24,7 +24,7 @@
 <td width="40%" align="right" valign="top">
 
 <img src="gifslowdock-2.gif" width="280"/>
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<a href="https://www.linkedin.com/in/dhiraj-chaudhary-4a0378282/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
