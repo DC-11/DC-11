@@ -79,11 +79,11 @@
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Secure AWS VPC</b><br/>
+      <b>Docker Deploment</b><br/>
       <sub>Designed and deployed a custom pipeline with public/private subnets and routing.</sub><br/>
       🔗 <a href="https://github.com/laxximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">Repo</a>
       <br/>
-      <sub>Tags: Networking, AWS, Security</sub>
+      <sub>Tags: Networking, Digitalocean, Security</sub>
     </td>
   </tr>
 </table>
