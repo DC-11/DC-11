@@ -60,7 +60,7 @@
       <sub>Tags: AI, LLMs, Prompt Engineering</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
+      <a href="https://github.com/maxiimus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
         <img src="https://learn.nextwork.org/projects/static/aws-devops-vscode/architecture-complete.png"
              alt="CI/CD Pipeline Project"
              style="width:100%; height:200px; object-fit:cover;"/>
