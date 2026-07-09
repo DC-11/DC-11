@@ -14,7 +14,7 @@
 ### Me *`Dhiraj Chaudhary`*
 
 - Software Engineering graduate figuring out where I fit in tech  
-- Focused on **Frontend + DevOps**  
+- Focused on **WebDev + DevOps**  
 - Interested in **systems, networking, and real-time applications**  
 - Building with **Next.js, React Native, and backend services**  
 - Build -> Break and Repeat  
